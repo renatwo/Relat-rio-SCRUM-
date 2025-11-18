@@ -1,0 +1,26 @@
+📝 Relatório Scrum: Funções e Importância no Projeto
+
+O Scrum é uma framework ágil, leve e iterativa para gerenciar projetos complexos, focando na entrega de valor contínua e na adaptação a mudanças. Para a equipe designada criar o projeto, a estrutura de papéis no Scrum é fundamental, embora alguns papéis listados se sobreponham ou sejam complementares à estrutura tradicional.
+
+
+🧐 Funções Essenciais e Sua Importância (Ótica Scrum e Adaptada)
+As funções listadas, quando analisadas pela ótica do Scrum (com a adaptação do Líder da Equipe de TI para complementar o aspecto técnico), são cruciais para o sucesso do projeto:
+
+Papel	Função Principal e Importância	Habilidades Chave
+
+Product Owner (PO) 🎯 Decidir o que será desenvolvido em cada Sprint e Validar as entregas (aceitar ou rejeitar resultados). É o responsável por maximizar o valor do produto resultante do trabalho da Equipe de Desenvolvimento.	Visão de negócio, comunicação clara e capacidade de priorização.
+
+
+
+Scrum Master (SM) 🛡️ Facilitar eventos (Daily, Planning, Review, Retrospective) e Remover impedimentos que atrapalham o time. Ele atua como um Líder Servidor, protegendo o time de interferências externas e garantindo que o Scrum seja compreendido e aplicado. Liderança servidora, resolução de conflitos e conhecimento ágil (do framework).
+
+Equipe de Tecnologia (Desenvolvimento)	⚙️ São os profissionais que constroem o incremento (o produto funcional) em cada Sprint, de forma auto-organizada para distribuir tarefas. Eles estimam o esforço das tarefas e ajudam a melhorar processos (Retrospectivas). São responsáveis pela qualidade e entrega.	Colaboração, autonomia e habilidades técnicas específicas para o desenvolvimento.
+
+Líder da Equipe de TI 💡 Ajudar a equipe a resolver desafios técnicos complexos, oferecer Mentoria para desenvolvedores menos experientes e participar de decisões sobre tecnologias e ferramentas. É um papel de suporte técnico e coaching, complementando a auto-organização do time de desenvolvimento.	Conhecimento técnico aprofundado e capacidade de mentoria.
+
+
+
+🚀 Fluxo de Trabalho e Sinergia
+A importância desses papéis reside na divisão clara de responsabilidades (gestão do O QUE pelo PO, gestão do COMO pela Equipe, e gestão do PROCESSO pelo SM), garantindo que o foco permaneça na entrega contínua de um produto de alto valor.
+
+O Scrum Master garante a eficiência do processo, o Product Owner garante o alinhamento com a visão do produto, e a Equipe de Tecnologia (com suporte do Líder de TI para os desafios técnicos) garante a execução técnica de qualidade. Essa sinergia é a essência do sucesso no Scrum.
